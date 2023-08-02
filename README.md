@@ -4,11 +4,11 @@ The WiFi Controlled 2WD Robotic Car project aims to develop a versatile robotic 
 
 # Required Components
 * 1 x ESP8266
-1 x L298N module
-2 x DC motors
-1 x Li-ion battery
-Jumper wires (as needed)
-Blynk app
+* 1 x L298N module
+* 2 x DC motors
+* 1 x Li-ion battery
+* Jumper wires (as needed)
+* Blynk app
 
 # Schematic Diagram
 capture
