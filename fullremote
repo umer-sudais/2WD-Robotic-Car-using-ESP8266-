@@ -7,8 +7,8 @@
 #define BLYNK_AUTH_TOKEN "utzKu37NWz3myTzkaKF_tAkl5WRER8TU"
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Hn G";         //Wifi name
-char pass[] = "atozpasswordhe";   //Password
+char ssid[] = "open";         //Wifi name
+char pass[] = "7d83943c";   //Password
 
 BLYNK_WRITE(V0){
   digitalWrite(D0, HIGH);
